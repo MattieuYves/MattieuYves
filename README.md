@@ -1,6 +1,25 @@
 # Hi there, I'm Mattieu 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on creating robust back-end solutions and intuitive front-end experiences. Here's a bit about my tech stack and expertise:
+Welcome to my GitHub profile! <br>
+I'm a passionate developer with a focus on creating
+robust back-end solutions and intuitive front-end experiences. <br>
+Here's a quick overview of my activity :
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattieuYves&show_icons=true&theme=synthwave)](https://github.com/MattieuYves/github-readme-stats)
+
+Don't hesitate to reach out &nbsp; &nbsp;👉🏻 &nbsp; &nbsp; &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mattieu-yves-815751140) [![Email](https://img.shields.io/badge/Email-Say%20Hi!-brightgreen)](mailto:mattieuyves@gmail.com)
+
+
+If you are a bit too shy to contact me right away, here if what you should know about me 👇🏻
+
+## 🔭 What am I working on ?
+- Powerful Web App tailored for you &nbsp;🫵🏻
+- Websites that makes your competition jealous &nbsp;🤭
+- Secrets projects of my own &nbsp;🤫
+
+## 🌱 Learning and Growth
+- Always on the lookout for new challenges and opportunities to collaborate on exciting projects
+- Keen interest in expanding my knowledge in both back-end and front-end development
 
 ## 🛠️ Technologies & Tools
 
@@ -42,15 +61,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 
 </div>
 
-## 🔭 What I'm working on
-- Crafting efficient back-end systems with Ruby on Rails
-- Building sleek and responsive user interfaces
-- Exploring new tools and technologies to enhance my skill set
-
-## 🌱 Learning and Growth
-- Always on the lookout for new challenges and opportunities to collaborate on exciting projects
-- Keen interest in expanding my knowledge in both back-end and front-end development
-
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mattieu-yves-815751140) [![Email](https://img.shields.io/badge/Email-Say%20Hi!-brightgreen)](mailto:mattieuyves@gmail.com)
