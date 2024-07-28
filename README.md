@@ -18,7 +18,7 @@ Here's a quick overview of my activity :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattieuYves&show_icons=true&theme=synthwave)](https://github.com/MattieuYves/github-readme-stats)
 
-Don't hesitate to reach out &nbsp; &nbsp;👉🏻 &nbsp; &nbsp; &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mattieu-yves-815751140) [![Email](https://img.shields.io/badge/Email-Say%20Hi!-brightgreen)](mailto:mattieuyves@gmail.com)
+Don't hesitate to reach out &nbsp; &nbsp;👉🏻 &nbsp; &nbsp; &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mattieu-yves-815751140) [![Email](https://img.shields.io/badge/Email-Say%20Hi!-brightgreen)](mailto:mattieu.yves@gemifydev.fr)
 
 
 If you are a bit too shy to contact me right away, here if what you should know about me 👇🏻
